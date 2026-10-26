@@ -1,0 +1,73 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.main{
+    width: 100%;
+    height: 100vh;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+
+.container{
+    padding: 20px;
+    border: solid 5px white;
+    width: 75%;
+    border-radius: 20px;
+}
+
+.nav{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.con1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.con2{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.con3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.con4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.con5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer button{
+    width: 120px ;
+    height: 30px;
+    background-color: darkgray;
+}
